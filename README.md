@@ -1,6 +1,8 @@
 # Competitive Programming Repository
 This is the repository for non-Japanese competitive programmers.
+
 I want to share many things about algorithms and programming contests.
+
 Let's read, learn and have fun!
 
 <br />
